@@ -2,7 +2,7 @@
 
 ## What is react 
 
-## A JavaScript library for building user interfaces &#127942;
+## A JavaScript library for building user interfaces;
 
 - **Components:** React is built around the concept of components, which are self-contained UI elements that can be reused throughout your application.
 
