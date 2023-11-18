@@ -1,4 +1,4 @@
-# 🥇 React Master Guide
+# React Master Guide
 
 ## What is react 
 
